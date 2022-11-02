@@ -1,0 +1,9 @@
+{
+	"name": "pvlab-0e8d27-adf",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f2799dee-bc66-4619-b3c6-d4a791abacf2",
+		"tenantId": "b27f9bba-d51b-4348-93b9-b67049d32dac"
+	}
+}
